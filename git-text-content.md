@@ -4,7 +4,7 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Git)
 
 Git (/ɡɪt/)[^8] is free and open source software for distributed version control: tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development. Its goals include speed, data integrity, and support for distributed, non-linear workflows (thousands of parallel branches running on different systems).[9][10][11]
 
-Git was originally authored by Linus Torvalds in 2005 for development of the Linux kernel, with other kernel developers contributing to its initial development.[12] Since 2005, Junio Hamano has been the core maintainer. As with most other distributed version control systems, and unlike most client–server systems, every Git directory on every computer is a full-fledged repository with complete history and full version-tracking abilities, independent of network access or a central server.[13] Git is free and open-source software distributed under the GPL-2.0-only license.
+Git was originally authored by Linus Torvalds in 2005 for development of the Linux kernel, with other kernel developers contributing to its initial development.[^12] Since 2005, Junio Hamano has been the core maintainer. As with most other distributed version control systems, and unlike most client–server systems, every Git directory on every computer is a full-fledged repository with complete history and full version-tracking abilities, independent of network access or a central server.[13] Git is free and open-source software distributed under the GPL-2.0-only license.
 
 # History
 Git development began in April 2005, after many developers of the Linux kernel gave up access to BitKeeper, a proprietary source-control management (SCM) system that they had been using to maintain the project since 2002.[14][15] The copyright holder of BitKeeper, Larry McVoy, had withdrawn free use of the product after claiming that Andrew Tridgell had created SourcePuller by reverse engineering the BitKeeper protocols.[16] The same incident also spurred the creation of another version-control system, Mercurial.
@@ -226,7 +226,7 @@ Git uses SHA-1 hashes internally. Linus Torvalds has responded that the hash was
 ^ Jump up to: a b Torvalds, Linus (7 April 2005). "Re: Kernel SCM saga." linux-kernel (Mailing list). Archived from the original on 1 July 2019. Retrieved 3 February 2017. "So I'm writing some scripts to try to track things a whole lot faster."
 ^ Jump up to: a b Torvalds, Linus (10 June 2007). "Re: fatal: serious inflate inconsistency". git (Mailing list).
 ^ Jump up to: a b c d Linus Torvalds (3 May 2007). Google tech talk: Linus Torvalds on git. Event occurs at 02:30. Archived from the original on 28 May 2007. Retrieved 16 May 2007.
-^ "A Short History of Git". Pro Git (2nd ed.). Apress. 2014. Archived from the original on 25 December 2015. Retrieved 26 December 2015.
+[^12]: "A Short History of Git". Pro Git (2nd ed.). Apress. 2014. Archived from the original on 25 December 2015. Retrieved 26 December 2015.
 ^ Chacon, Scott (24 December 2014). Pro Git (2nd ed.). New York, NY: Apress. pp. 29–30. ISBN 978-1-4842-0077-3. Archived from the original on 25 December 2015.
 ^ Brown, Zack (27 July 2018). "A Git Origin Story". Linux Journal. Linux Journal. Archived from the original on 13 April 2020. Retrieved 28 May 2020.
 ^ BitKeeper and Linux: The end of the road? Archived 8 June 2017 at the Wayback Machine
