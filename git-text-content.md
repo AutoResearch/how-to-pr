@@ -207,7 +207,7 @@ References[edit]
 ^ Jump up to: a b Torvalds, Linus (7 April 2005). "Re: Kernel SCM saga." linux-kernel (Mailing list). Archived from the original on 1 July 2019. Retrieved 3 February 2017. "So I'm writing some scripts to try to track things a whole lot faster."
 ^ Jump up to: a b Torvalds, Linus (10 June 2007). "Re: fatal: serious inflate inconsistency". git (Mailing list).
 ^ Jump up to: a b c d Linus Torvalds (3 May 2007). Google tech talk: Linus Torvalds on git. Event occurs at 02:30. Archived from the original on 28 May 2007. Retrieved 16 May 2007.
-^ "A Short History of Git". Pro Git (2nd ed.). Apress. 2014. Archived from the original on 25 December 2015. Retrieved 26 December 2015.
+^[^12]: "A Short History of Git". Pro Git (2nd ed.). Apress. 2014. Archived from the original on 25 December 2015. Retrieved 26 December 2015.
 ^ Chacon, Scott (24 December 2014). Pro Git (2nd ed.). New York, NY: Apress. pp. 29–30. ISBN 978-1-4842-0077-3. Archived from the original on 25 December 2015.
 ^ Brown, Zack (27 July 2018). "A Git Origin Story". Linux Journal. Linux Journal. Archived from the original on 13 April 2020. Retrieved 28 May 2020.
 ^ BitKeeper and Linux: The end of the road? Archived 8 June 2017 at the Wayback Machine
